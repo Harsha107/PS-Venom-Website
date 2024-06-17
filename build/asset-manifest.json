@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7214d3ff.css",
+    "main.js": "/static/js/main.d9601a5c.js",
+    "static/media/alexander-hipp-iEEBWgY_6lA-unsplash.jpg": "/static/media/alexander-hipp-iEEBWgY_6lA-unsplash.8e47360fb8a28e41c441.jpg",
+    "static/media/sthg.jpg": "/static/media/sthg.9363d9d9d0ae587386a9.jpg",
+    "static/media/Screenshot 2023-07-17 172523.jpg": "/static/media/Screenshot 2023-07-17 172523.64baa133fb73478c86fb.jpg",
+    "static/media/venom_combd.png": "/static/media/venom_combd.573da366aa36a955d725.png",
+    "static/media/flavors.jpg": "/static/media/flavors.a3be2c4745e341641d94.jpg",
+    "static/media/noun-smoking-pipe-4236184 (1).png": "/static/media/noun-smoking-pipe-4236184 (1).ebd5e1ed3a191e8a7ddb.png",
+    "static/media/noun-smoking-pipe-4236184.png": "/static/media/noun-smoking-pipe-4236184.ebd5e1ed3a191e8a7ddb.png",
+    "static/media/shisha.jpg": "/static/media/shisha.6f1967fb850eaf4ea9f7.jpg",
+    "static/media/Layer 1 (1).png": "/static/media/Layer 1 (1).2f33c268cb52a71894bc.png",
+    "static/media/phone_v.png": "/static/media/phone_v.e10ea5ada991f6e51599.png",
+    "static/media/phone.png": "/static/media/phone.3903442ad94407159360.png",
+    "static/media/mail.png": "/static/media/mail.cf43a2653d56a07f5517.png",
+    "static/media/mail_v.png": "/static/media/mail_v.42ce9a5a7de671733a41.png",
+    "static/media/map.png": "/static/media/map.6d8b44f74ec0e6770226.png",
+    "static/media/insta_v.png": "/static/media/insta_v.513cd39d5b75a1dfe2d1.png",
+    "static/media/clock.png": "/static/media/clock.204a0bded462c67cf3d7.png",
+    "index.html": "/index.html",
+    "main.7214d3ff.css.map": "/static/css/main.7214d3ff.css.map",
+    "main.d9601a5c.js.map": "/static/js/main.d9601a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7214d3ff.css",
+    "static/js/main.d9601a5c.js"
+  ]
+}
